@@ -32,7 +32,7 @@ if [[ -z ${CARGO} ]]; then
 fi
 ${CARGO} --version
 
-git clone https://github.com/LemmyNet/lemmy-stats-crawler.git
+git clone https://github.com/LemmyWorld/lemmy-stats-crawler.git
 pushd lemmy-stats-crawler
 
 # some pre-run output for debugging
