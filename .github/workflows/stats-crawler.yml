@@ -14,7 +14,7 @@ on:
 jobs:
 
   linux:
-    runs-on: [self-hosted, Linux, X64, ghrunner]
+    runs-on: ubuntu-latest
 
     steps:
 
