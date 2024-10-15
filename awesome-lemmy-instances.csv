@@ -1,9 +1,9 @@
 Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version
-[Lemmy.World](https://lemmy.world),Yes,Yes,Yes,Yes,Yes,17115,173,0,99%,16,0.19.3-6-g86e4cb214
-[Lemmy NSFW](https://lemmynsfw.com),Yes,Yes,Yes,Yes,No,3232,177,7,99%,16,0.19.3-1-gd05f00d4c
+[Lemmy.World](https://lemmy.world),Yes,Yes,Yes,Yes,Yes,17136,173,0,99%,16,0.19.3-6-g86e4cb214
+[Lemmy NSFW](https://lemmynsfw.com),Yes,Yes,Yes,Yes,No,3233,177,7,99%,16,0.19.3-1-gd05f00d4c
 [SDF Chatter](https://lemmy.sdf.org),Yes,Yes,Yes,Yes,Yes,496,0,0,98%,16,0.19.3
 [Lemmy.one](https://lemmy.one),Yes,No,Yes,Yes,No,212,4,1,99%,16,0.19.3
-[Lemmings.world](https://lemmings.world),Yes,Yes,Yes,Yes,Yes,144,94,0,98%,15,0.19.3
+[Lemmings.world](https://lemmings.world),Yes,Yes,Yes,Yes,Yes,145,94,0,98%,15,0.19.3
 [Lemdro.id](https://lemdro.id),Yes,No,Yes,Yes,Yes,119,0,0,99%,15,0.19.3
 [szmer](https://szmer.info),Yes,Yes,Yes,Yes,Yes,109,3,0,99%,43,0.19.3
 [awful.systems](https://awful.systems),Yes,No,Yes,Yes,Yes,104,20,0,100%,14,0.19.3
@@ -19,15 +19,15 @@ Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version
 [正在发声](https://fasheng.ing),Yes,Yes,Yes,Yes,Yes,12,0,0,98%,2,0.19.3
 [右人民国](https://lemmy.ur.mk),Yes,No,No,Yes,Yes,9,0,0,??,??,0.18.5
 [BlendIT - BSD Cafe](https://blendit.bsd.cafe),Yes,No,Yes,Yes,Yes,6,0,0,100%,11,0.19.3
-[DubVee](https://dubvee.org),Yes,Yes,Yes,Yes,Yes,5,625,0,94%,16,0.19.3
 [Fanaticus](https://fanaticus.social),Yes,Yes,Yes,Yes,Yes,5,1,0,100%,15,0.19.3
+[DubVee](https://dubvee.org),Yes,Yes,Yes,Yes,Yes,5,625,0,94%,16,0.19.3
 [lemux](https://lemux.minnix.dev),Yes,Yes,Yes,Yes,Yes,4,0,0,96%,15,0.19.3
 [BROWNTOWN](https://lemmy.browntown.dev),Yes,Yes,Yes,Yes,Yes,3,0,0,??,??,0.19.2
 [Lemmy for LUS](https://lemmy.linuxuserspace.show),Yes,No,Yes,Yes,Yes,3,0,0,100%,16,0.18.5
 [SS14 Lemmy](https://lemmy.spacestation14.com),Yes,Yes,Yes,Yes,Yes,3,25,0,99%,16,0.19.1
 [九尾論壇](https://bbs.9tail.net),Yes,Yes,Yes,Yes,Yes,3,1,1,98%,23,0.19.3
-[Baraza](https://baraza.africa),Yes,Yes,No,Yes,Yes,2,0,0,98%,46,0.19.3
 [Kutsuya.dev](https://kutsuya.dev),Yes,No,Yes,Yes,Yes,2,0,0,98%,15,0.19.3
+[Baraza](https://baraza.africa),Yes,Yes,No,Yes,Yes,2,0,0,98%,46,0.19.3
 [Nowhere.moe - Lemmy](https://lemmy.nowhere.moe),Yes,Yes,Yes,Yes,Yes,2,0,0,??,??,0.19.3
 [ZeroBytes](https://zerobytes.monster),Yes,Yes,Yes,Yes,Yes,2,0,2,81%,15,0.19.3
 [federate.cc](https://lemmy.federate.cc),Yes,Yes,Yes,No,Yes,2,46,0,96%,15,0.19.3
@@ -37,8 +37,8 @@ Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version
 [Ten Forward](https://lemmy-api.ten4ward.social),Yes,Yes,Yes,Yes,Yes,1,0,0,96%,13,0.19.3
 [lemmy.yachts](https://lemmy.yachts),Yes,Yes,No,Yes,Yes,1,0,0,100%,14,0.19.3
 [ShinyLemmy](https://lemmy.shiny-task.com),Yes,No,Yes,Yes,Yes,1,0,0,100%,14,0.19.3
-[My Lemmy Instance](https://lemmy.noellesporn.de),Yes,Yes,Yes,Yes,Yes,1,1,0,??,??,0.19.3
 [shoddy lemmy](https://l.shoddy.site),Yes,Yes,Yes,Yes,Yes,1,0,0,100%,13,0.18.5
+[My Lemmy Instance](https://lemmy.noellesporn.de),Yes,Yes,Yes,Yes,Yes,1,1,0,??,??,0.19.3
 [lsmu](https://lsmu.schmurian.xyz),Yes,Yes,Yes,Yes,Yes,1,0,0,??,??,0.19.3
 [Tech Tailors](https://lemmy.techtailors.net),Yes,Yes,Yes,Yes,Yes,1,0,0,95%,14,0.19.4-beta.7
 [rocketsfall](https://social.rocketsfall.net),Yes,No,Yes,Yes,Yes,1,4,0,99%,15,0.19.3
@@ -78,15 +78,15 @@ Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version
 [dev.lemmy.world](https://dev.lemmy.world),Yes,Yes,No,Yes,Yes,1,0,0,??,??,0.19.3-6-g86e4cb214
 [jjb.cat](https://jjb.cat),Yes,Yes,Yes,Yes,Yes,1,0,0,??,??,0.19.3
 [Linkage @ DS8](https://linkage.ds8.zone),Yes,Yes,Yes,Yes,Yes,1,0,0,99%,22,0.19.3
-[foros.fediverso.gal](https://foros.fediverso.gal),Yes,No,Yes,No,Yes,1,0,0,96%,22,0.19.3
+[lemmy.glasgow.social](https://lemmy.glasgow.social),Yes,Yes,No,Yes,Yes,1,0,0,91%,45,0.19.3
 [lemmy.onlylans.io](https://lemmy.onlylans.io),Yes,Yes,Yes,Yes,Yes,1,2,0,99%,15,0.19.2
 [Campfyre](https://campfyre.nickwebster.dev),Yes,Yes,Yes,Yes,Yes,1,12,0,99%,15,0.19.3
-[lemmy.glasgow.social](https://lemmy.glasgow.social),Yes,Yes,No,Yes,Yes,1,0,0,91%,45,0.19.3
-[Lemmy](https://lemmy.caliban.io),Yes,No,Yes,Yes,Yes,1,0,0,100%,4,0.19.3
+[foros.fediverso.gal](https://foros.fediverso.gal),Yes,No,Yes,No,Yes,1,0,0,96%,22,0.19.3
 [FWGX Lemmy](https://lemmy.fwgx.uk),Yes,No,Yes,Yes,Yes,1,0,0,99%,15,0.19.3
+[Lemmy](https://lemmy.caliban.io),Yes,No,Yes,Yes,Yes,1,0,0,100%,4,0.19.3
+[Simpl Lemmy](https://lemmy.simpl.website),Yes,No,Yes,Yes,Yes,1,0,0,100%,15,0.19.3
 [Jamesj999 Lemmy](https://lemmy.jamesj999.co.uk),Yes,No,Yes,Yes,Yes,1,0,0,99%,15,0.19.3
 [schoenwolf-schroeder](https://lemmy.schoenwolf-schroeder.com),Yes,Yes,Yes,Yes,Yes,1,0,0,99%,15,0.19.3
-[Simpl Lemmy](https://lemmy.simpl.website),Yes,No,Yes,Yes,Yes,1,0,0,100%,15,0.19.3
 [Starbase 80 Lemmy](https://lemmy.starbase80.dev),Yes,No,Yes,Yes,Yes,1,0,0,??,??,0.19.3
 [hacktheplanet.be](https://lemmy.hacktheplanet.be),Yes,No,Yes,Yes,Yes,1,0,0,98%,15,0.19.3
 [Lemmy.fosshost.com](https://lemmy.fosshost.com),Yes,Yes,Yes,Yes,Yes,1,0,0,100%,15,0.19.3
@@ -112,12 +112,12 @@ Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version
 [lemmiys](https://lemmy.iys.io),Yes,Yes,Yes,Yes,Yes,0,2,0,100%,15,0.19.3
 [OldTruk](https://lemmy.oldtr.uk),Yes,Yes,Yes,Yes,Yes,0,0,0,99%,15,0.19.3
 [My Lemny](https://lemmy.zwanenburg.info),Yes,Yes,Yes,Yes,Yes,0,0,0,100%,15,0.19.3
-[lmmytvdldev](https://lmmy.tvdl.dev),Yes,No,Yes,Yes,Yes,0,0,0,??,??,0.19.3
 [theculture.social](https://theculture.social),Yes,No,Yes,Yes,No,0,1,0,??,??,0.19.3
+[lmmytvdldev](https://lmmy.tvdl.dev),Yes,No,Yes,Yes,Yes,0,0,0,??,??,0.19.3
 [Switter.su](https://switter.su),Yes,Yes,Yes,Yes,Yes,0,0,1,68%,15,0.19.3
 [w9r.de](https://lemmy.w9r.de),Yes,No,Yes,Yes,Yes,0,0,0,100%,15,0.19.0-rc.13
-[A Federation](https://lem.cochrun.xyz),Yes,Yes,Yes,Yes,Yes,0,0,0,98%,15,0.19.3
 [PIT.NINJA](https://lemmy.pit.ninja),Yes,Yes,Yes,Yes,Yes,0,0,0,80%,16,0.19.3
+[A Federation](https://lem.cochrun.xyz),Yes,Yes,Yes,Yes,Yes,0,0,0,98%,15,0.19.3
 [lemmy.snoot.tube](https://lemmy.snoot.tube),Yes,Yes,Yes,Yes,No,0,0,0,??,??,0.18.5
 [Stad Social](https://lemmy.stad.social),Yes,Yes,Yes,Yes,Yes,0,1,0,??,??,0.18.5
 [kuuhana](https://kuu.kohana.fi),Yes,No,Yes,Yes,Yes,0,0,0,100%,15,0.19.3
@@ -139,21 +139,21 @@ Instance,NU,NC,Fed,Adult,↓V,Users,BI,BB,UT,MO,Version
 [Jimbo's Lemmy](https://lemmy.jimbosfiles.com),Yes,Yes,Yes,Yes,Yes,0,0,0,??,??,0.19.3
 [Nannoda Lemmy](https://lemmy.nannoda.com),Yes,No,No,Yes,Yes,0,0,0,??,??,0.19.3
 [pztrn's Bin](https://bin.pztrn.name),Yes,No,Yes,Yes,Yes,0,0,0,??,??,0.19.3
-[LemmyLocal](https://lemmy.packitsolutions.net),Yes,Yes,Yes,Yes,Yes,0,0,0,96%,14,0.18.5
-[Lemmy.institute](https://lemmy.institute),Yes,No,Yes,Yes,Yes,0,3,0,100%,14,0.19.3
 [Y3K Tech](https://ythreektech.com),Yes,No,Yes,No,Yes,0,2,0,95%,14,0.19.3
+[Lemmy.institute](https://lemmy.institute),Yes,No,Yes,Yes,Yes,0,3,0,100%,14,0.19.3
+[Hoi Hoi Hoi Superboi](https://hoihoi.superboi.eu.org),Yes,No,Yes,Yes,Yes,0,0,0,92%,15,0.19.3
 [KittiesAreCute!](https://ascy.mooo.com),Yes,Yes,Yes,Yes,Yes,0,0,0,??,??,0.19.3
 [lemmy.nikore.net](https://lemmy.nikore.net),Yes,No,Yes,Yes,Yes,0,1,0,??,??,0.19.3
 [lemmy.wentam.net](https://lemmy.wentam.net),Yes,Yes,Yes,Yes,Yes,0,0,0,98%,9,0.19.3
-[Lemmy](https://lemmy.remorse.us),Yes,Yes,Yes,Yes,Yes,0,0,0,69%,10,0.18.5
+[Lemmy](https://lemmy.remorse.us),Yes,Yes,Yes,Yes,Yes,0,0,0,??,??,0.18.5
 [Bigma](https://lemmy.bigsecretwebsite.net),Yes,No,Yes,Yes,Yes,0,0,0,??,??,0.18.5
-[Fry](https://fry.gs),Yes,No,Yes,No,Yes,0,0,0,96%,13,0.18.5
-[mebitek](https://lemmy.mebitek.com),Yes,No,Yes,Yes,Yes,0,0,0,89%,6,0.19.3
 [博物谈](https://forum.penclub.club),Yes,Yes,Yes,Yes,Yes,0,0,0,96%,11,0.19.3
-[Piero Bosio Social](https://lemmy.bosio.info),Yes,No,Yes,Yes,Yes,0,0,0,88%,12,0.19.3
+[mebitek](https://lemmy.mebitek.com),Yes,No,Yes,Yes,Yes,0,0,0,89%,6,0.19.3
+[Fry](https://fry.gs),Yes,No,Yes,No,Yes,0,0,0,96%,13,0.18.5
 [Sarcastic Developer](https://lemmy.sarcasticdeveloper.com),Yes,No,Yes,Yes,Yes,0,0,0,89%,15,0.19.3
-[Unfiltered](https://lemmy.unfiltered.social),Yes,No,Yes,Yes,Yes,0,0,0,100%,12,0.18.5
+[Piero Bosio Social](https://lemmy.bosio.info),Yes,No,Yes,Yes,Yes,0,0,0,88%,12,0.19.3
 [lemmy.8bitar.io](https://lemmy.8bitar.io),Yes,No,Yes,No,Yes,0,0,0,??,??,0.18.5
+[Unfiltered](https://lemmy.unfiltered.social),Yes,No,Yes,Yes,Yes,0,0,0,100%,12,0.18.5
 [slc.dev](https://slc.dev),Yes,No,Yes,Yes,Yes,0,0,0,??,??,0.19.3
 [ch3n2k的中文Lemmy站](https://lemmy.ch3n2k.com),Yes,No,No,No,Yes,0,0,0,99%,15,0.19.3
 [MetaPowers](https://metapowers.org),Yes,Yes,Yes,Yes,Yes,0,0,0,99%,15,0.19.0
